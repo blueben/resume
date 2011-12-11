@@ -1,0 +1,71 @@
+Benjamin Krueger
+Professional Systems Administrator, Systems Engineer
+benjamin@seattlefenix.net
+206-250-3019
+
+Summary
+* Experienced and talented System Administrator, expanding in to information security.
+
+Specialties
+System Administration, Linux & virtual server management, Internet application management, Infrastructure, PCI-DSS Compliance
+
+Experience
+Google, Inc - Jambool, Inc
+Search Engine - Virtual Currency Provider
+Full Time Position, Sept 2009 - Aug 2011
+
+Senior System Administrator, Security Engineer
+Working as the Senior operations staff, I led Junior operations staff to maintain and monitor a fleet of 80+ Linux servers providing testing, integration, corporate and production infrastructures. These environments include large scale Web, Mail, Load Balancing, Database, and other network services. I also managed network security, including maintaining compliance with PCI specifications. In addition to upgrading an aging Fedora Core based platform to CentOS on Amazon's EC2, I automated a significant majority of the infrastructure with Puppet as well as designed and built a PCI compliant network for the secure transmission, processing, and storage of credit card data. Working closely with the development team on a daily basis, I assisted with production troubleshooting and provide 24x7x365 on-call support. This integration with the development team has also yielded architectural improvements including moving back-end and front-end services to redundant load balancer systems for greater availability. In addition to production operations, I also managed corporate technology including network and workstation management for offices in Washington and California. After our acquisition by Google, I continued performing the duties listed above while helping to facilitate the acquisition and transition process.
+1 recommendation available upon request
+
+BitPusher, LLC
+Managed Internet Operations Co
+Full Time Position, April 2008 - August 2009
+
+Senior Systems Engineer
+Working on a team of three, I managed Internet operations for over a dozen companies and multiple core infrastructures across the US to support them. Core infrastructures included redundant services for OS provisioning, authoritative and caching DNS, mail servers with Postfix, LDAP servers for authentication, configuration management with Puppet, load balancers utilizing Linux IPVS and HAProxy, firewalls with IPTables, and Nagios with Cacti for monitoring and trending. I also performed project management, working with customers to design, implement, scale, and maintain their Web services architectures. Common systems included Ruby on Rails and PHP applications running on Apache, Nginx, and Mongrel servers, MySQL, Memcached, Perlbal, NFS, Squid, and other related technologies.
+1 recommendation available upon request
+
+Clearwire, Inc
+Wireless Internet Service Provider
+Contract Position, August 2007 - April 2008
+
+Systems Administrator
+Maintained 350+ servers providing service to over 40 cities across the United States as part of a production maintenance team. Daily duties included performance monitoring, incident response, and application upgrades. Supported applications including name services with PowerDNS, DHCP, IPTables based firewalls, vpn tunnels using OpenVPN, PostgreSQL, and custom Java authentication and authorization applications. Significant projects included documenting production systems, designing a framework for service monitoring, as well as designing and implementing NTP and centralized logging infrastructures. Scripting, when required, was done in Bash, Perl, and Ruby. Additionally, I participated in an on-call rotation to respond to production issues.
+1 recommendation available upon request
+
+Marchex, Inc
+Search and Media Advertising Distribution Co
+Full Time Position, August 2006 - August 2007
+
+Systems Administrator
+Working in a production operations team, daily activities included architecting, maintaining, and troubleshooting production applications. These applications included custom Java and Perl apps, Tomcat, Apache, MySQL, PgSQL, Oracle, and numerous others. Was also responsible for building and maintaining the infrastructure to manage these services utilizing Cfengine, Cacti, and other custom tools. Maintained 24x7 on-call rotation. Maintained high availability and reliability across dozens of products and services and hundreds of servers located in eight offices and datacenters in the US. Other responsibilities included systems, product, and infrastructure documentation as well as training other team members.
+
+CarDomain Network
+Online Auto Enthusiasts Community and Retail Store
+Contract to Full Time Position, August 2004 - June 2006
+
+Systems Administrator
+Was a member of a team that grew from 2 to 6 IT staff. Originally joined as an Independent Consultant to provide user and production site support for the company during a period of rapid growth. Joined as a full time Systems Administrator in May of 2005 to continue in this role. Primary duties were split across both corporate and production areas. Corporate oriented duties included end user support and management of Exchange 2003, Active Directory, File services, VPN, and backups. In a production roll, duties included implementing and supporting the numerous services that make up CarDomain.com. Was responsible for ensuring the availability and performance of Linux servers running applications such as Apache and Mod_Perl for web services, NFS for network data storage, Oracle DB, MySQL, Postfix and various spam traps for mail, Bind for nameservice, and LVS for load balancing. Support tools included SNMP, Nagios, and Cacti for monitoring and trend reporting.
+
+AT&T Wireless
+Wireless Telephony Provider
+Contract Position, June 2004 - August 2004
+
+Systems Architect
+Provided Unix application support in a consultation oriented environment for development teams and production systems. Primary applications included Jboss, Jakarta Tomcat, the Apache web server, and custom AT&T applications on Redhat Linux and Solaris servers. Worked in a team supporting software deployment, configuration, application troubleshooting, and maintaining up to date documentation on application environments.
+
+Microsoft, Inc
+Software Development Co
+Contract Position, April 2004 - June 2004
+
+Support Engineer
+Provided support for Windows Services for Unix and Windows Storage Server NFS to Premier customers and OEM companies on behalf of Microsoft Corp. Also provided solutions for customers having issues with Windows and UNIX integration, NFS configuration, NIS configuration, and related Services for Unix products.
+
+Qpass, Inc
+Software and Services Development Co
+Full Time Position, February 2003 - January 2004
+
+NOC Administrator
+Worked as a member of a team of 4 Systems Administrators to manage daily operations of production and pre-production Web, Application, and other servers running Linux, Apache, Tomcat, BEA Weblogic, BIND, and Sendmail. Served as a primary resource for system troubleshooting, performance analysis, application configuration, monitoring, and upgrades as part of a 24x7 on-call rotation. Was also responsible for new server deployment and assisting in the capacity management process. Frequently was called upon to troubleshoot connectivity issues on both network and application layers between Qpass production servers and customer servers. Utilized shell and Perl scripts daily to assist with monitoring and log analysis.
+1 recommendation available upon request
