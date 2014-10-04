@@ -16,7 +16,7 @@ namespace :convert do
 
   desc "Convert to PDF"
   task :to_pdf do
-    `/System/Library/Printers/Libraries/convert -f BenjaminKruegerResume.rtf -o BenjaminKruegerResume.pdf`
+    `cupsfilter BenjaminKruegerResume.rtf > BenjaminKruegerResume.pdf`
     puts "Converted to PDF"
   end
 

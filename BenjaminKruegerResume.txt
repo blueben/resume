@@ -4,12 +4,45 @@ benjamin@seattlefenix.net
 206-250-3019
 
 Summary
-* Experienced and talented System Administrator, expanding in to information security.
+
+I am an experienced and talented Systems Engineer with both deep and wide exposure to many technologies and computing environments. My career is systems oriented, informed by information security, and I work with an emphasis on enabling business needs and maintaining a healthy work culture.
+
+I select work in diverse and functional teams where every team member's contributions are expected to be meaningful and appreciated. I work best with teams that are cohesive and goal oriented, and much of my best work is novelty motivated; this includes design and implementation, research, and the dissection and analysis of unique or complex problems. I also place a high value on continuing education, information sharing and collaboration with industry peers, and open source technology philosophies.
 
 Specialties
-System Administration, Linux & virtual server management, Internet application management, Infrastructure, PCI-DSS Compliance
 
+Systems Engineering, System Administration, Architecture, Linux, Virtual servers, Cloud management, Internet services, Infrastructure
 Experience
+
+HamWAN
+Non-Profit Network Organization
+Member, Board of Directors, October 2012 - Present
+Board Director and volunteer Systems Engineer for HamWAN, which is focused on creating, operating and coordinating free digital networks. These digital networks are used for (1) emergency communications when other systems go down, (2) research and development in the realm of microwave networking, (3) a means of free digital communication for anyone who is or becomes a licensed radio amateur, (4) an educational resource in spreading the knowledge of how to create, operate and use such networks. All knowledge generated and gathered by HamWAN in the realm of microwave networking is made freely available to the public for unrestricted consumption. Coordination services provided by HamWAN ensure the interoperability of other similar networks not directly under HamWAN’s control.
+
+Cisco, Inc - Sourcefire, Inc
+Network Hardware Manufacturer
+Full Time Position, January 2012 - Present
+
+Site Reliability Engineer
+Worked at Sourcefire which was later acquired by Cisco Systems: http://www.cisco.com/web/about/ac49/ac0/ac1/ac259/sourcefire.html
+
+In this position, I was the first of what has become a 7 member distributed team. We support a team of Developers and QA staff in managing FireAMP, a cloud-based security product providing malware analysis, network-wide file and process tracking and correlation, and control for workstations.
+
+My regular duties are both response and project oriented. Response oriented work includes assisting members of the Development and QA teams with production questions, providing subject-matter expertise, addressing systems and infrastructure problems as needed, and providing first-line response to service outages. Project oriented work includes automating infrastructure and systems, addressing technical debt when possible, upgrading services and underlying software components when necessary, and participating in the design and implementation of new services and infrastructure components.
+
+Notable project work I have done with the team includes:
+Evaluating and implementating a private cloud using Joyent SmartDatacenter
+Evaluation, designing, and implementating Amazon Virtual Private Cloud and Direct Connect services
+Building an automation codebase using Opscode Chef
+
+Blue Box Group
+Cloud Services Provider
+Full Time Position, August 2011 - November 2011
+
+Implementation Engineer
+During a brief role at BlueBox I assisted in bringing new customers online, implementing new services, and troubleshooting problems for existing customers.
+1 recommendation available upon request
+
 Google, Inc - Jambool, Inc
 Search Engine - Virtual Currency Provider
 Full Time Position, Sept 2009 - Aug 2011
