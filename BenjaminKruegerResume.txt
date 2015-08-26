@@ -5,19 +5,14 @@ benjamin@seattlefenix.net
 
 Summary
 
-I am an experienced and talented Systems Engineer with both deep and wide exposure to many technologies and computing environments. My career is systems oriented, informed by information security, and I work with an emphasis on enabling business needs and maintaining a healthy work culture.
+I am an experienced and talented Systems Engineer with both deep and wide exposure to many technologies and computing environments. I am looking to pursue work in an environment where the operations team is empowered to discover and implement processes which improve business efficiency and develop the science of operations.
 
-I select work in diverse and functional teams where every team member's contributions are expected to be meaningful and appreciated. I work best with teams that are cohesive and goal oriented, and much of my best work is novelty motivated; this includes design and implementation, research, and the dissection and analysis of unique or complex problems. I also place a high value on continuing education, information sharing and collaboration with industry peers, and open source technology philosophies.
+I select work in diverse and functional teams where every team member's contributions are expected to be meaningful and appreciated. I work best with teams that are cohesive and goal oriented, and much of my best work is novelty motivated; this includes design and implementation, research, and the dissection and analysis of unique or complex problems. I also place a high value on professional development, information sharing and collaboration with industry peers, and open source technologies and philosophies.
 
 Specialties
 
 Systems Engineering, System Administration, Architecture, Linux, Virtual servers, Cloud management, Internet services, Infrastructure
 Experience
-
-HamWAN
-Non-Profit Network Organization
-Member, Board of Directors, October 2012 - Present
-Board Director and volunteer Systems Engineer for HamWAN, which is focused on creating, operating and coordinating free digital networks. These digital networks are used for (1) emergency communications when other systems go down, (2) research and development in the realm of microwave networking, (3) a means of free digital communication for anyone who is or becomes a licensed radio amateur, (4) an educational resource in spreading the knowledge of how to create, operate and use such networks. All knowledge generated and gathered by HamWAN in the realm of microwave networking is made freely available to the public for unrestricted consumption. Coordination services provided by HamWAN ensure the interoperability of other similar networks not directly under HamWAN’s control.
 
 Cisco, Inc - Sourcefire, Inc
 Network Hardware Manufacturer
@@ -28,12 +23,12 @@ Worked at Sourcefire which was later acquired by Cisco Systems: http://www.cisco
 
 In this position, I was the first of what has become a 7 member distributed team. We support a team of Developers and QA staff in managing FireAMP, a cloud-based security product providing malware analysis, network-wide file and process tracking and correlation, and control for workstations.
 
-My regular duties are both response and project oriented. Response oriented work includes assisting members of the Development and QA teams with production questions, providing subject-matter expertise, addressing systems and infrastructure problems as needed, and providing first-line response to service outages. Project oriented work includes automating infrastructure and systems, addressing technical debt when possible, upgrading services and underlying software components when necessary, and participating in the design and implementation of new services and infrastructure components.
+My regular duties were both response and project oriented. Response oriented work included assisting members of the Development and QA teams with production questions, providing subject-matter expertise, addressing systems and infrastructure problems as needed, and providing first-line response to service outages. Project oriented work included automating infrastructure and systems, addressing technical debt when possible, upgrading services and underlying software components when necessary, and participating in the design and implementation of new services and infrastructure components.
 
 Notable project work I have done with the team includes:
-Evaluating and implementating a private cloud using Joyent SmartDatacenter
-Evaluation, designing, and implementating Amazon Virtual Private Cloud and Direct Connect services
-Building an automation codebase using Opscode Chef
+Evaluating and implemention of a hybrid private cloud using Joyent Smart Datacenter
+Evaluation, design, and implementation Amazon Virtual Private Cloud and Direct Connect services
+Building an automation codebase using Chef
 
 Blue Box Group
 Cloud Services Provider
@@ -95,6 +90,7 @@ Contract Position, April 2004 - June 2004
 Support Engineer
 Provided support for Windows Services for Unix and Windows Storage Server NFS to Premier customers and OEM companies on behalf of Microsoft Corp. Also provided solutions for customers having issues with Windows and UNIX integration, NFS configuration, NIS configuration, and related Services for Unix products.
 
+
 Qpass, Inc
 Software and Services Development Co
 Full Time Position, February 2003 - January 2004
@@ -102,3 +98,14 @@ Full Time Position, February 2003 - January 2004
 NOC Administrator
 Worked as a member of a team of 4 Systems Administrators to manage daily operations of production and pre-production Web, Application, and other servers running Linux, Apache, Tomcat, BEA Weblogic, BIND, and Sendmail. Served as a primary resource for system troubleshooting, performance analysis, application configuration, monitoring, and upgrades as part of a 24x7 on-call rotation. Was also responsible for new server deployment and assisting in the capacity management process. Frequently was called upon to troubleshoot connectivity issues on both network and application layers between Qpass production servers and customer servers. Utilized shell and Perl scripts daily to assist with monitoring and log analysis.
 1 recommendation available upon request
+ Additional Experience 
+Wow Such Giving
+Non-Profit Charitable Organization
+Co Founder & Director, December 2014 – Present
+Wow Such Giving is a non-profit charity with a mission to find innovative solutions for meeting the needs of the under-privileged in the Pacific Northwest. Presently involved in bootstrapping and project planning for winter operations.
+
+HamWAN
+Non-Profit Network Organization
+Member, Board of Directors, October 2012 – January 2015
+Board Director and volunteer Systems Engineer for HamWAN, which is focused on creating, operating and coordinating free digital networks. These digital networks are used for (1) emergency communications when other systems go down, (2) research and development in the realm of microwave networking, (3) a means of free digital communication for anyone who is or becomes a licensed radio amateur, (4) an educational resource in spreading the knowledge of how to create, operate and use such networks. All knowledge generated and gathered by HamWAN in the realm of microwave networking is made freely available to the public for unrestricted consumption. Coordination services provided by HamWAN ensure the interoperability of other similar networks not directly under HamWAN’s control.
+
