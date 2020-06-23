@@ -4,108 +4,137 @@ ben.krueger@gmail.com
 
 Summary
 
-I am an experienced and talented Systems Engineer with both deep and wide exposure to many technologies and computing environments. I am looking to pursue work in an environment where the operations team is empowered to discover and implement processes which improve business efficiency and develop the science of operations.
+ I am an experienced and talented Engineer with both deep and wide experience in many technologies and computing environments. I believe the most effective teams are diverse, cohesive, and service oriented, and I try to employ a philosophy of leading by example. Much of my best work is done in the areas of system design and implementation, research, and the dissection and analysis of unique or complex problems. I highly value professional development, information sharing and collaboration with industry peers as well as open source technologies and philosophies.
 
-I select work in diverse and functional teams where every team member's contributions are expected to be meaningful and appreciated. I work best with teams that are cohesive and goal oriented, and much of my best work is novelty motivated; this includes design and implementation, research, and the dissection and analysis of unique or complex problems. I also place a high value on professional development, information sharing and collaboration with industry peers, and open source technologies and philosophies.
+ I help technology teams align themselves to business needs by developing flexible yet well-defined processes, using repeatable methods to design systems and solve problems, and creating strong relationships with other teams within the organization. Not only does this improve a technology team’s quality of life, but they are more responsive, better understand the organization’s needs, and deliver better technology solutions in a way that enables every team to work with less friction and more efficiency.
 
-Specialties
-
-Systems Engineering, System Administration, Architecture, Linux, Virtual servers, Cloud management, Internet services, Infrastructure
 Experience
 
-Cisco, Inc - Sourcefire, Inc
-Network Hardware Manufacturer
-Full Time Position, January 2012 - Present
+Nordstrom, Inc.
+July 2017 – June 2020
+Engineer Senior
 
+Joined the Enterprise Service Bus team at Nordstrom as a cloud services and devops specialist in order to build replacements for the company's TIBCO EMS and BusinessWorks platforms using Amazon's AWS. Also lead the team in efforts to modernize legacy ESB infrastructure.
+
+* Delivered a prototype high availability, cross-datacenter capable message queue utilizing AWS EC2, Redis, and DynomiteDB. Later iterated to deploy to Kubernetes.
+* Expanded existing configuration management with Chef
+* Migrated to a Datadog based monitoring stack, expanded monitoring capabilities
+* Improved log parsing capabilities
+* Templatized and rewrote architectural, system, and application documentation
+* Built a system to manage and deploy new infrastructure with Terraform
+* Wrote an application to deploy legacy TIBCO applications within GitLab CICD
+
+I also made numerous contributions to the overall engineering organization.
+
+* Provided systems and design guidance on an adhoc basis to multiple teams
+* Provided organization-wide support for cloud services, config management, Linux, and other technologies
+* Served in the Mentorship program, providing career and technical guidance to junior engineers
+* Created an employee recognition program to promote and applaud excellent security practices
+* Created a repository of engineering practices and resources, inspiring the creation of a new developer resources team.
+
+MultiScale Health Network
+September 2016 – December 2016
+DevOps Engineer
+
+Joined a fledgling team to help it grow into a mature operations practice while helping this startup take their prototype product to market. Identified and cleaned technical debt across all environments.
+
+* Introduced 2 week Agile sprints for operations work management.
+* Built monitoring dashboards with ELK to provide visibility into Production systems.
+* Reworked the legacy environment to close security holes and improve system management.
+* Tuned Linux systems to improve network performance for data processing file transfers and NFS.
+* Reorganized over 100TB of data, eliminating redundant files and making better use of system resources.
+* Identified storage and performance bottlenecks in the data processing pipeline using Linux observability and benchmarking tools. Found inefficiencies in processing software and proposed fixes to developers.
+* Researched and designed a complete rearchitecture of QA and Production systems to modernize all components, ensuring reliability, improving system throughput, adding automation, and enabling a future move to Google Cloud.
+
+Slalom Consulting
+September 2015 – September 2016
+Senior Engineer
+
+Joined Slalom's DevOps practice working on client projects to improve operations processes, write automation systems, implement configuration management systems, and migrate client systems to AWS cloud services. This was achieved by integrating with client operations and development teams in order to identify areas of improvement and lead by example.
+
+* Assessed clients’ production systems and use of Chef and recommended architectural changes.
+* Designed continuous integration pipelines for chef cookbook development using Jenkins.
+* Worked with clients to design and implement cloud migrations to AWS.
+* Wrote systems automation with Chef to install and manage systems and services.
+* Wrote interview documents, screened and interviewed DevOps candidates for client teams.
+* Wrote team on-boarding documents and production service documentation.
+* Identified KPIs and developed metrics and graphs to track software deployments and applications.
+* Introduced the fundamentals of code management with Git and deployment systems to teams learning how to use configuration management systems.
+
+Cisco / Sourcefire, Inc.
+Jan 2012 – Aug 2015
 Site Reliability Engineer
-Worked at Sourcefire which was later acquired by Cisco Systems: http://www.cisco.com/web/about/ac49/ac0/ac1/ac259/sourcefire.html
 
-In this position, I was the first of what has become a 7 member distributed team. We support a team of Developers and QA staff in managing FireAMP, a cloud-based security product providing malware analysis, network-wide file and process tracking and correlation, and control for workstations.
+First member of what grew to be a 7 member distributed team. We supported Developer and QA teams in managing FireAMP, a cloud-based security product providing malware analysis, file and process tracking, and event correlation across networks.
 
-My regular duties were both response and project oriented. Response oriented work included assisting members of the Development and QA teams with production questions, providing subject-matter expertise, addressing systems and infrastructure problems as needed, and providing first-line response to service outages. Project oriented work included automating infrastructure and systems, addressing technical debt when possible, upgrading services and underlying software components when necessary, and participating in the design and implementation of new services and infrastructure components. Our production, QA, and Development environments combined were approximately 2000 host instances spread across our own datacenter as well as Amazon EC2 in two US regions and one European region.
+ Regular duties were both response and project oriented. Response oriented work included assisting members of the Development and QA teams with production questions, providing subject-matter expertise, addressing systems and infrastructure problems as needed, and providing first-line response to service outages. Project oriented work included addressing technical debt when possible, upgrading services and software components, and representing Operations in the design and implementation of new services. The team was responsible for approximately 2000 host instances in our datacenter and multiple AWS regions.
 
-Notable project work I have done with the team includes: 
-Evaluating and implemention of a hybrid private cloud using Joyent Smart Datacenter, as well as evaluation, design, and implementation of an environment within the Amazon Virtual Private Cloud. Production services were split between AWS and our own datacenter, and connected using redundant Direct Connect fiber circuits. This enabled us to keep data in our datacenter while maintaining application and web frontends in the AWS cloud.
- Building an automation codebase using Chef. Once we finished evaluation and chose Chef, we began training our Development and QA teams to write Chef recipes for application deployment and configuration alongside systems management with Operations. We maintained over 50 Chef cookbooks which managed every aspect of systems management including NTP, backups, system and application log handling, account management and configuration of system daemons. We also used chef for application deployment and configuration including Apache, Nginx, HAProxy, MySQL, Riak, MongoDB, Memcached, and various Ruby, C, and Go applications. Chef recipes also integrated tests which verified correct system operation and deployment.  Our automation environment also enabled nearly-no-touch deployments, reducing the time to deploy new server instances to under 30 minutes. The next phase of this work, which we prototyped, was using Chef Metal to deploy entire server fleets at once, enabling fast disaster recovery and environment creation for testing and QA purposes.
+Notable projects included:
+
+* Evaluation and implementation of a hybrid private cloud using Joyent SDC on-premises and AWS Virtual Private Cloud using redundant Direct Connect fiber circuits.
+* Enabling Development and QA teams to use Chef
+* Implementing deployment automation
+* Prototyping fleet deployment using Chef Metal
 
 Blue Box Group
-Cloud Services Provider
-Full Time Position, August 2011 - November 2011
-
+August 2011 - November 2011
 Implementation Engineer
-During a brief role at BlueBox I assisted in bringing new customers online, implementing new services, and troubleshooting problems for existing customers.
-1 recommendation available upon request
 
-Google, Inc - Jambool, Inc
-Search Engine - Virtual Currency Provider
-Full Time Position, Sept 2009 - Aug 2011
+During a brief role at BlueBox I assisted in bringing new customers online, implementing new services, and troubleshooting problems for existing customers. I originally joined the company to help develop a security engineering role however the company changed direction and this did not come to fruition.
+
+Google, Inc / Jambool, Inc
+Sept 2009 - Aug 2011
 
 Senior System Administrator, Security Engineer
-Working as the Senior operations staff, I led Junior operations staff to maintain and monitor a fleet of 80+ Linux servers providing testing, integration, corporate and production infrastructures. These environments include large scale Web, Mail, Load Balancing, Database, and other network services using Apache, Nginx, HAProxy, MySQL, Memcached, and custom applications in Ruby. I also managed network security, including maintaining compliance with PCI specifications.  In addition to upgrading an aging Fedora Core based platform to CentOS on Amazon's EC2, I automated a significant majority of the infrastructure with Puppet. This included dozens of Puppet modules to manage system and application configurations.  As we began to scale up our transactional processing, I designed and built a PCI-DSS Level 1 compliant hybrid cloud utilizing a local datacenter and Amazon EC2. This enabled the secure transmission, processing, and storage of credit card data for hundreds of clients through our product.  Working closely with the development team on a daily basis, I assisted with production troubleshooting and provide 24x7x365 on-call support. This integration with the development team has also yielded architectural improvements including moving back-end and front-end services to redundant load balanced systems for greater availability. 
-
-In addition to production operations, I also managed corporate technology including network and workstation management for offices in Washington and California. After our acquisition by Google, I continued performing the duties listed above while helping to facilitate the acquisition and transition process.
-1 recommendation available upon request
+Working as the Senior operations team member, I led Junior operations staff to maintain and monitor a fleet of 50+ Linux servers providing testing, integration, corporate and production infrastructures. These environments include large scale Web, Mail, Load Balancing, Database, and other network services. I also managed network security, including maintaining compliance with PCI specifications. In addition to upgrading an aging Fedora Core based platform to CentOS on Amazon's EC2, I automated a significant majority of the infrastructure with Puppet as well as designed and built a PCI compliant network for the secure transmission, processing, and storage of credit card data. Working closely with the development team on a daily basis, I assisted with production troubleshooting and provide 24x7x365 on-call support. This integration with the development team has also yielded architectural improvements including moving back-end and front-end services to redundant load balancer systems for greater availability. In addition to production operations, I also managed corporate technology including network and workstation management for offices in Washington and California. After our acquisition by Google, I continued performing the duties listed above while helping to facilitate the acquisition and transition process.
 
 BitPusher, LLC
-Managed Internet Operations Co
-Full Time Position, April 2008 - August 2009
-
+April 2008 - August 2009
 Senior Systems Engineer
-Working on a team of three, I managed Internet operations for over a dozen companies and multiple core infrastructures across the US to support them. Core infrastructures included redundant services for OS provisioning, authoritative and caching DNS, mail servers with Postfix, LDAP servers for authentication, configuration management with Puppet, load balancers utilizing Linux IPVS and HAProxy, firewalls with IPTables, and Nagios with Cacti for monitoring and trending. I also performed project management, working with customers to design, implement, scale, and maintain their Web services architectures. Common systems included Ruby on Rails and PHP applications running on Apache, Nginx, and Mongrel servers, MySQL, Memcached, Perlbal, NFS, Squid, and other related technologies.
+
+Working in a small team, I managed Internet operations for over a dozen companies and multiple core infrastructures across the US to support them. Core infrastructures included redundant services for OS provisioning, authoritative and caching DNS, mail servers with Postfix, LDAP servers for authentication, configuration management with Puppet, load balancers utilizing Linux IPVS and HAProxy, firewalls with IPTables, and Nagios with Cacti for monitoring and trending. I also performed project management, working with customers to design, implement, scale, and maintain their Web services architectures. Common systems included Ruby on Rails and PHP applications running on Apache, Nginx, and Mongrel servers, MySQL, Memcached, Perlbal, NFS, Squid, and other related technologies.
 1 recommendation available upon request
 
 Clearwire, Inc
-Wireless Internet Service Provider
-Contract Position, August 2007 - April 2008
-
+August 2007 - April 2008
 Systems Administrator
+
 Maintained 350+ servers providing service to over 40 cities across the United States as part of a production maintenance team. Daily duties included performance monitoring, incident response, and application upgrades. Supported applications including name services with PowerDNS, DHCP, IPTables based firewalls, vpn tunnels using OpenVPN, PostgreSQL, and custom Java authentication and authorization applications. Significant projects included documenting production systems, designing a framework for service monitoring, as well as designing and implementing NTP and centralized logging infrastructures. Scripting, when required, was done in Bash, Perl, and Ruby. Additionally, I participated in an on-call rotation to respond to production issues.
 1 recommendation available upon request
 
 Marchex, Inc
-Search and Media Advertising Distribution Co
-Full Time Position, August 2006 - August 2007
-
+August 2006 - August 2007
 Systems Administrator
+
 Working in a production operations team, daily activities included architecting, maintaining, and troubleshooting production applications. These applications included custom Java and Perl apps, Tomcat, Apache, MySQL, PgSQL, Oracle, and numerous others. Was also responsible for building and maintaining the infrastructure to manage these services utilizing Cfengine, Cacti, and other custom tools. Maintained 24x7 on-call rotation. Maintained high availability and reliability across dozens of products and services and hundreds of servers located in eight offices and datacenters in the US. Other responsibilities included systems, product, and infrastructure documentation as well as training other team members.
 
 CarDomain Network
-Online Auto Enthusiasts Community and Retail Store
-Contract to Full Time Position, August 2004 - June 2006
-
+August 2004 - June 2006
 Systems Administrator
+
 Was a member of a team that grew from 2 to 6 IT staff. Originally joined as an Independent Consultant to provide user and production site support for the company during a period of rapid growth. Joined as a full time Systems Administrator in May of 2005 to continue in this role. Primary duties were split across both corporate and production areas. Corporate oriented duties included end user support and management of Exchange 2003, Active Directory, File services, VPN, and backups. In a production roll, duties included implementing and supporting the numerous services that make up CarDomain.com. Was responsible for ensuring the availability and performance of Linux servers running applications such as Apache and Mod_Perl for web services, NFS for network data storage, Oracle DB, MySQL, Postfix and various spam traps for mail, Bind for nameservice, and LVS for load balancing. Support tools included SNMP, Nagios, and Cacti for monitoring and trend reporting.
 
 AT&T Wireless
-Wireless Telephony Provider
-Contract Position, June 2004 - August 2004
-
+June 2004 - August 2004
 Systems Architect
-Provided Unix application support in a consultation oriented environment for development teams and production systems. Primary applications included Jboss, Jakarta Tomcat, the Apache web server, and custom AT&T applications on Redhat Linux and Solaris servers. Worked in a team supporting software deployment, configuration, application troubleshooting, and maintaining up to date documentation on application environments.
+
+As a contractor, provided Unix application support in a consultation oriented environment for development teams and production systems. Primary applications included Jboss, Jakarta Tomcat, the Apache web server, and custom AT&T applications on Redhat Linux and Solaris servers. Worked in a team supporting software deployment, configuration, application troubleshooting, and maintaining up to date documentation on application environments.
 
 Microsoft, Inc
-Software Development Co
-Contract Position, April 2004 - June 2004
-
+April 2004 - June 2004
 Support Engineer
-Provided support for Windows Services for Unix and Windows Storage Server NFS to Premier customers and OEM companies on behalf of Microsoft Corp. Also provided solutions for customers having issues with Windows and UNIX integration, NFS configuration, NIS configuration, and related Services for Unix products.
 
+Worked as a contractor providing support for Windows Services for Unix and Windows Storage Server NFS to Premier customers and OEM companies on behalf of Microsoft Corp. Also provided solutions for customers having issues with Windows and UNIX integration, NFS configuration, NIS configuration, and related Services for Unix products.
 
 Qpass, Inc
-Software and Services Development Co
-Full Time Position, February 2003 - January 2004
-
+February 2003 - January 2004
 NOC Administrator
+
 Worked as a member of a team of 4 Systems Administrators to manage daily operations of production and pre-production Web, Application, and other servers running Linux, Apache, Tomcat, BEA Weblogic, BIND, and Sendmail. Served as a primary resource for system troubleshooting, performance analysis, application configuration, monitoring, and upgrades as part of a 24x7 on-call rotation. Was also responsible for new server deployment and assisting in the capacity management process. Frequently was called upon to troubleshoot connectivity issues on both network and application layers between Qpass production servers and customer servers. Utilized shell and Perl scripts daily to assist with monitoring and log analysis.
-1 recommendation available upon request
- Additional Experience 
-Wow Such Giving
-Non-Profit Charitable Organization
-Co Founder & Director, December 2014 – Present
-Wow Such Giving is a non-profit charity with a mission to find innovative solutions for meeting the needs of the under-privileged in the Pacific Northwest. Presently involved in bootstrapping and project planning for winter operations.
+
+Additional Experience
 
 HamWAN
 Non-Profit Network Organization
 Member, Board of Directors, October 2012 – January 2015
 Board Director and volunteer Systems Engineer for HamWAN, which is focused on creating, operating and coordinating free digital networks. These digital networks are used for (1) emergency communications when other systems go down, (2) research and development in the realm of microwave networking, (3) a means of free digital communication for anyone who is or becomes a licensed radio amateur, (4) an educational resource in spreading the knowledge of how to create, operate and use such networks. All knowledge generated and gathered by HamWAN in the realm of microwave networking is made freely available to the public for unrestricted consumption. Coordination services provided by HamWAN ensure the interoperability of other similar networks not directly under HamWAN’s control.
-
